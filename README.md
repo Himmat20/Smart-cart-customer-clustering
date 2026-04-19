@@ -27,7 +27,7 @@ Retail stores can improve marketing strategies and product recommendations by gr
 ### Visualization
 - 2D Scatter Plots
 - 3D Scatter Plots
-- Dendrogram for Hierarchical Clustering
+- Heatmap
 
 ## Project Workflow
 
@@ -42,5 +42,3 @@ Retail stores can improve marketing strategies and product recommendations by gr
 9. Cluster evaluation using Silhouette Score and WCSS
 10. Visualization of clusters in 2D and 3D
 11. Cluster summary analysis
-
-## Project Structure
